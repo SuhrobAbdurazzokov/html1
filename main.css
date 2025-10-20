@@ -1,6 +1,10 @@
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
+    margin-left: auto;
+    margin-right: auto;
+    
 }
 
 ul,
@@ -12,6 +16,7 @@ body {
     background: #f9fbfd;
     color: #333;
     padding: 20px;
+
 }
 
 header {
@@ -20,6 +25,12 @@ header {
     padding: 20px;
     margin-bottom: 30px;
     border-radius: 10px;
+}
+
+.container {
+    width: 1217px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .header__logo {
