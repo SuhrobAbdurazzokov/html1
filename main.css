@@ -1,0 +1,99 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+ul,
+ol {
+    list-style: none;
+}
+
+body {
+    background: #f9fbfd;
+    color: #333;
+    padding: 20px;
+}
+
+header {
+    background: #ffffff;
+    color: #2a2a2a;
+    padding: 20px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+}
+
+.header__logo {
+    background: #e6f2ff;
+    color: #0077ff;
+    padding: 10px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+
+.header__nav {
+    background: #f0f7ff;
+    color: #444;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+.intro {
+    background: #ffffff;
+    color: #1a1a1a;
+    padding: 30px;
+    margin-bottom: 30px;
+    border-radius: 12px;
+}
+
+.intro a {
+    background: #0077ff;
+    color: white;
+    padding: 8px 16px;
+    border-radius: 6px;
+    margin-top: 10px;
+    display: inline-block;
+}
+
+.service {
+    background: #e9f6ff;
+    padding: 30px;
+    margin-bottom: 30px;
+    border-radius: 12px;
+}
+
+.service__card {
+    background: white;
+    color: #333;
+    padding: 20px;
+    margin: 10px 0;
+    border-radius: 8px;
+}
+
+.providers {
+    background: #ffffff;
+    padding: 30px;
+    margin-bottom: 30px;
+    border-radius: 12px;
+}
+
+.downloads {
+    background: #e7f7f4;
+    padding: 30px;
+    margin-bottom: 30px;
+    border-radius: 12px;
+}
+
+.personal {
+    background: #0077ff;
+    color: white;
+    padding: 30px;
+    margin-bottom: 30px;
+    border-radius: 12px;
+}
+
+.footer {
+    background: #003366;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
